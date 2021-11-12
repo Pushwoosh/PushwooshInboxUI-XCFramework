@@ -1,6 +1,6 @@
 # PushwooshInboxUI-XCFramework
 
-This repository hosts the PushwooshInboxUI iOS SDK as an XCFramework based Swift Package. Use this repository's Swift Package in Xcode 12+
+This repository hosts the PushwooshInboxUI iOS SDK as an XCFramework based Swift Package. Use this repository's Swift Package in Xcode 13+
 
 The guide for SDK integration is available on Pushwoosh website:
 https://www.pushwoosh.com/platform-docs/pushwoosh-sdk/ios-push-notifications/setting-up-pushwoosh-ios-sdk
