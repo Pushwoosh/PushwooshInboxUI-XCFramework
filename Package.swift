@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PushwooshInboxUI",
-            url: "https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases/download/7.0.29/PushwooshInboxUI.xcframework.zip",
-            checksum: "99c7391641b666c8b9bf5cb3a2985e608feabfe8e5df6b1abe6bec659bf4eb67"
+            url: "https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases/download/7.0.30/PushwooshInboxUI.xcframework.zip",
+            checksum: "967d987c613c5c271baebdf4123deef6ff3b8d024504deadeab906219f64fd78"
         )
     ]
 )
